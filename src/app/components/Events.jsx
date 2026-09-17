@@ -80,7 +80,7 @@ export default function Events() {
             </h1>
             <h2 className="text-[#B35800] md:text-3xl text-[15px] font-cormorant-garamond">
               D/O <br />
-              Sdn. Ravinder Kaur & S. Harjinder Singh
+            Smt. Indu Saini & Shri RAJESH SAINI
             </h2>
 
             <h2 className="text-[#B35800] md:text-5xl text-2xl font-cormorant-garamond my-4">
