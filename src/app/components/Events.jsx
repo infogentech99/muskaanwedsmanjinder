@@ -169,7 +169,7 @@ export default function Events() {
               href="https://calendar.google.com/calendar/render?action=TEMPLATE"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 rounded-lg bg-[#B35800] px-5 py-2 font-eb-garamond uppercase md:text-[14px] text-[12px] mt-4"
+              className="inline-flex items-center gap-2 rounded-lg bg-[#B35800] px-5 py-2 font-eb-garamond uppercase md:text-[14px] text-[12px] mt-4 text-white"
             >
               <CalendarPlus size={18} />
               Add to Calendar
