@@ -56,7 +56,7 @@ export default function Home() {
 
   return (
     <>
-    {/* <IntroVideo /> */}
+    <IntroVideo />
 
 <button
         onClick={() => {
