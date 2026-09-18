@@ -6,7 +6,7 @@ export default function Events() {
       title_ceremony: "Bangle Ceremony + Satsang",
       image: "/assets/bangle.webp",
       date: "Sunday, 15th November 2026",
-      venue_address:"Bathinda Punjab",
+      venue_address:"At Our Residence - Pathankot Punjab",
       time: "Join Us at 07:00 PM Onwards",
       link: "https://maps.app.goo.gl/iVRSvGqT9msB8mZT8",
     },
@@ -15,7 +15,7 @@ export default function Events() {
       title_ceremony: "Mehendi",
       image: "/assets/mehandi.webp",
       date: "Wednesday, 18th November 2026",   
-      venue_address:"Bathinda Punjab",
+    venue_address:"At Our Residence - Pathankot Punjab",
       time: "Join Us at 03:00 PM Onwards",
       link: "https://maps.app.goo.gl/iVRSvGqT9msB8mZT8",
     },
@@ -23,7 +23,7 @@ export default function Events() {
       title_ceremony: "Shagun + Jaggo Night",
       image: "/assets/shagun.webp",
       date: "Thursday, 19th November 2026",
-      venue_address:"Bathinda Punjab",
+     venue_address:"At Our Residence - Pathankot Punjab",
       time: "Join Us at 11:00 AM Onwards",
       link: "https://maps.app.goo.gl/iVRSvGqT9msB8mZT8",
     },
@@ -31,7 +31,7 @@ export default function Events() {
       title_ceremony: "Haldi + Chura Ceremony",
       image: "/assets/haldi.webp",
       date: "Friday, 20th November 2026",
-      venue_address:"Bathinda Punjab",
+     venue_address:"At Our Residence - Pathankot Punjab",
       time: "Join Us at 07:30 PM Onwards",
       link: "https://maps.app.goo.gl/iVRSvGqT9msB8mZT8",
     },
@@ -43,7 +43,7 @@ export default function Events() {
       venue: "GLITZ RESORT",
       venue_address: (
         <>
-           JUGIAL ROAD, VILL. GOSAINPUR, PATHANKOT
+           Jugial Road, Vill. Gosainpur, Pathankot
         </>
       ),
       time: "Join Us at 11:00 AM Onwards",
